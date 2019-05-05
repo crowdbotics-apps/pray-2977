@@ -1,0 +1,3 @@
+rootProject.name = 'pray_2977'
+
+include ':app'
